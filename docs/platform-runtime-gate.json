@@ -1,0 +1,11 @@
+{
+  "product": "blender-guide-mini-launcher",
+  "title": "操作ガイド・ミニランチャー",
+  "domain": "BlenderAddon",
+  "ideaNo": 6,
+  "platformType": "blender-addon",
+  "expectedPublicTarget": "GitHub Release / BOOTH",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
